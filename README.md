@@ -1,1 +1,1 @@
-# CoffeeMachin
+# CoffeeMachine
